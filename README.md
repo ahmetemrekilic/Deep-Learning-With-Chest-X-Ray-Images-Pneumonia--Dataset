@@ -1,0 +1,1 @@
+# Derin--renme-ile-Chest-X-Ray-Images-Pneumonia--Datas-
