@@ -1,3 +1,3 @@
-# Derin-Orenme-ile-Chest-X-Ray-Images-Pneumonia--Datasi
+# Deep-Learning-With-Chest-X-Ray-Images-Pneumonia--Dataset
 
-Derin ogrenme ile CNN yapısı kullanılarak Chest X-Ray Images (Pneumonia) görüntüleri ile %91.16 başarıya sahip model egitildi.
+Using the CNN structure with deep learning, the model with a 91.16% success rate was trained with Chest X-Ray Images (Pneumonia) images.
